@@ -14,4 +14,3 @@ This is small application to compress images with ReactJS and NodeJS as Backend.
 
 ###### About me
 My name is Zviad Sharadze. I'm .Net Developer from Tbilisi, Georgia.
-I'm Microsoft Certified Professional.
